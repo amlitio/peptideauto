@@ -1,0 +1,5 @@
+selenium
+nltk
+openai
+tweepy
+webdriver_manager
